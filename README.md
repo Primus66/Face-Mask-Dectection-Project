@@ -1,0 +1,2 @@
+# Face Mask Dectection Project
+ Use Machine Learning concepts to design several models that determine whether an individual is wearing a face mask, not wearing a face mask, or wearing a face mask incorrectly. We will use the performance metrics gathered on these models (including accuracy, precision, recall, and f1 scores) to determine which model performs the best. The models explored include KNN, Decision Trees, CNN, Naive Bayes, and SVM. 
